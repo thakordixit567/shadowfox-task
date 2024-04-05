@@ -190,9 +190,8 @@ button {
 }
 
 .nav_logo  {
-  font-size: 50px;
+  font-size: 30px;
   font-family: "Permanent Marker", sans-serif;
-  color: black;
 }
 
 .nav_logo:hover {
@@ -299,7 +298,7 @@ button {
 }
 
 .home_blob {
-  width: 500px;
+  width: 200px;
   fill: var(--first-color);
 }
 
@@ -951,7 +950,8 @@ button {
   }
 
   .portfolio_img {
-    width: 320px;
+    width: 350px;
+    
   }
 
   .portfolio_content {
