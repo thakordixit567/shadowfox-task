@@ -694,6 +694,7 @@ button {
 .footer_title {
   font-size: var(--h1-font-size);
   margin-bottom: var(--mb-0-25);
+  font-family: "Permanent Marker", sans-serif;
 }
 
 .footer_subtitle {
